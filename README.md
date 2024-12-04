@@ -1,4 +1,4 @@
 # 
 this is my first repository.
 <br>
-author- shreya purandare
+author- shreya
